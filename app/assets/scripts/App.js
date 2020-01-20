@@ -1,3 +1,3 @@
 import '../styles/styles.css'
 
-alert('The sky is black...');
+// alert('The sky is black...');
