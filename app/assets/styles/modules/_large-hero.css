@@ -3,6 +3,8 @@
 	border-bottom: 10px solid $mainBlue;
 	position: relative;
 
+	/*BEM nested class. Compiles as separate selector class.
+	*/
 	&__image {
 		display: block;
 	}
